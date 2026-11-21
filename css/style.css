@@ -151,7 +151,10 @@ img {
     inset: 0;
     z-index: -3;
 
-    background-image: url("../image/elis-almeida-hero.png.png");
+   background-image: url("image/elis-almeida-hero.png.png");
+background-size: cover;
+background-position: center 5%;
+background-repeat: no-repeat;
 
     background-size: cover;
 
